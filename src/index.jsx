@@ -6,7 +6,7 @@ import VideoList from "./components/video_list";
 
 // require("dotenv").config();
 
-const API_KEY = "AIzaSyANRx7UvfST1AOpPtXAU2AFcgBEjH6cvMI";
+
 // process.env.API_KEY;
 
 class App extends Component {
