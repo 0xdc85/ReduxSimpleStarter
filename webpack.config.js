@@ -14,13 +14,6 @@ module.exports = {
           presets: ["react", "es2015", "stage-1"],
         },
       },
-      {
-        exclude: /node_modules/,
-        loader: "dotenv",
-        query: {
-          presets: ["react", "es2015", "stage-1"],
-        },
-      },
     ],
   },
   resolve: {
